@@ -1,0 +1,33 @@
+@host=http://localhost:3000
+
+###
+
+GET {{host}}/api/users/check
+
+###
+
+GET {{host}}/api/users HTTP/1.1
+
+###
+
+GET {{host}}/api/users/6384b2d456b483d012902d07 HTTP/1.1
+
+###
+
+POST {{host}}/api/users HTTP/1.1
+content-type: application/json
+
+{
+    "username":"ashoka",
+    "email":"ashoka@gmail.in",
+    "password":"delhi"
+}
+
+###
+
+PUT {{host}}/api/users/6384b2d456b483d012902d07 HTTP/1.1
+content-type: application/json
+
+{
+    "password":"12345"
+}

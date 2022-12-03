@@ -1,0 +1,33 @@
+@host=http://localhost:3000
+
+GET {{host}}/api/hotels HTTP/1.1
+
+###
+
+GET {{host}}/api/hotels/638490090b16f44ebb919339 HTTP/1.1
+
+###
+
+POST {{host}}/api/hotels HTTP/1.1
+content-type: application/json
+
+{
+    "name":"ABC Hotel",
+    "type":"hotel",
+    "city":"delhi",
+    "address":"somewhere near railway station",
+    "distance":"500",
+    "title":"Best Hotel in the City",
+    "desc":"Hotel is the one of best hotel out here, services are amazing, just try it.",
+    "cheapestPrice":100
+}
+
+###
+
+PUT {{host}}/api/hotels/638490090b16f44ebb919339 HTTP/1.1
+content-type: application/json
+
+{
+    "name": "Jai Hanuman Hotels",
+    "type":"dhabha"
+}
