@@ -9,6 +9,14 @@ This project is part of practise project to target, hotel system to check the pe
 * Error Handling
 * Security Handling
 
+# Property Types
+* Hotels
+* Apartments
+* Resorts
+* Villas
+* Cabins
+* Capsules
+
 ## Technologies
 1. Nodejs
 2. Expressjs
@@ -25,4 +33,4 @@ This project is part of practise project to target, hotel system to check the pe
 
 ## Other Topics
 * [server](server/README.md)
-* [webroot](webroot/README.md)
+* [webroot](react-www/README.md)

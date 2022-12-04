@@ -1,0 +1,19 @@
+{
+  "name": "sorabh86-hotelbooking",
+  "version": "1.0.0",
+  "description": "It is a mern stack project for hotel booking",
+  "main": "index.js",
+  "scripts": {
+    "start-server":"cd ./server && nodemon index.js",
+    "start-client":"cd ./react-booking && npm start",
+    "start":"npm run start-server && npm run start-client",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/sorabh86"
+  },
+  "keywords": [ "hotel", "booking", "system" ],
+  "author": "sorabh86 <ssorabh.ssharma@hotmail.com>",
+  "license": "ISC"
+}
