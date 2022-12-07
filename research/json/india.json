@@ -1,0 +1,271 @@
+{
+
+    "states": [
+        { 
+            "name":"Andaman and Nicobar Islands (union territory)",
+            "cities":[
+                {"name":"Port Blair"},
+            ]
+        }, { 
+            "name":"Andhra Pradesh",
+            "cities":[
+                {"name":"Adoni"},
+                {"name":"Amaravati"},
+                {"name":"Anantapur"},
+                {"name":"Chandragiri"},
+                {"name":"Chittoor"},
+                {"name":"Dowlaiswaram"},
+                {"name":"Eluru"},
+                {"name":"Guntur"},
+                {"name":"Kadapa"},
+                {"name":"Kakinada"},
+                {"name":"Kurnool"},
+                {"name":"Machilipatnam"},
+                {"name":"Nagarjunakoṇḍa"},
+                {"name":"Rajahmundry"},
+                {"name":"Srikakulam"},
+                {"name":"Tirupati"},
+                {"name":"Vijayawada"},
+                {"name":"Visakhapatnam"},
+                {"name":"Vizianagaram"},
+                {"name":"Yemmiganur"},
+            ]
+        }, { 
+            "name":"Arunachal Pradesh",
+            "cities":[
+                {"name":"Itanagar"}
+            ]
+        }, { 
+            "name":"Assam",
+            "cities":[
+                {"name":"Dhuburi"},
+                {"name":"Dibrugarh"},
+                {"name":"Dispur"},
+                {"name":"Guwahati"},
+                {"name":"Jorhat"},
+                {"name":"Nagaon"},
+                {"name":"Sivasagar"},
+                {"name":"Silchar"},
+                {"name":"Tezpur"},
+                {"name":"Tinsukia"},
+            ]
+        }, { 
+            "name":"Bihar",
+            "cities":[
+                {"name":"Ara"},
+                {"name":"Barauni"},
+                {"name":"Begusarai"},
+                {"name":"Bettiah"},
+                {"name":"Bhagalpur"},
+                {"name":"Bihar Sharif"},
+                {"name":"Bodh Gaya"},
+                {"name":"Buxar"},
+                {"name":"Chapra"},
+                {"name":"Darbhanga"},
+                {"name":"Dehri"},
+                {"name":"Dinapur Nizamat"},
+                {"name":"Gaya"},
+                {"name":"Hajipur"},
+                {"name":"Jamalpur"},
+                {"name":"Katihar"},
+                {"name":"Madhubani"},
+                {"name":"Motihari"},
+                {"name":"Munger"},
+                {"name":"Muzaffarpur"},
+                {"name":"Patna"},
+                {"name":"Purnia"},
+                {"name":"Pusa"},
+                {"name":"Saharsa"},
+                {"name":"Samastipur"},
+                {"name":"Sasaram"},
+                {"name":"Sitamarhi"},
+                {"name":"Siwan"},
+            ]
+        },{ 
+            "name":"Chandigarh (union territory)",
+            "cities":[
+                {"name":"Chandigarh"}
+            ]
+        },{ 
+            "name":"Chhattisgarh",
+            "cities":[
+                {"name":"Ambikapur"},
+                {"name":"Bhilai"},
+                {"name":"Bilaspur"},
+                {"name":"Dhamtari"},
+                {"name":"Durg"},
+                {"name":"Jagdalpur"},
+                {"name":"Raipur"},
+                {"name":"Rajnandgaon"},
+            ]
+        },{ 
+            "name":"Dadra and Nagar Haveli and Daman and Diu (union territory)",
+            "cities":[
+                {"name":"Daman"},
+                {"name":"Diu"},
+                {"name":"Silvassa"},
+            ]
+        },{ 
+            "name":"Delhi (national capital territory)",
+            "cities":[
+                {"name":"Delhi"},
+                {"name":"New Delhi"},
+            ]
+        },{ 
+            "name":"Goa",
+            "cities":[
+                {"name":"Madgaon"},
+                {"name":"Panaji"},
+            ]
+        },{ 
+            "name":"Gujarat",
+            "cities":[
+                {"name":"Ahmadabad"},
+                {"name":"Amreli"},
+                {"name":"Bharuch"},
+                {"name":"Bhavnagar"},
+                {"name":"Bhuj"},
+                {"name":"Dwarka"},
+                {"name":"Gandhinagar"},
+                {"name":"Godhra"},
+                {"name":"Jamnagar"},
+                {"name":"Junagadh"},
+                {"name":"Kandla"},
+                {"name":"Khambhat"},
+                {"name":"Kheda"},
+                {"name":"Morbi"},
+                {"name":"Nadiad"},
+                {"name":"Navsari"},
+                {"name":"Okha"},
+                {"name":"Palanpur"},
+                {"name":"Patan"},
+                {"name":"Porbandar"},
+                {"name":"Rajkot"},
+                {"name":"Surat"},
+                {"name":"Surendranagar"},
+                {"name":"Valsad"},
+                {"name":"Veraval"},
+            ]
+        },{ 
+            "name":"Haryana",
+            "cities":[
+                {"name":"Itanagar"}
+            ]
+        },{ 
+            "name":"Himachal Pradesh",
+            "cities":[
+                {"name":"Itanagar"}
+            ]
+        },{ 
+            "name":"Jammu and Kashmir (union territory)",
+            "cities":[
+                {"name":"Itanagar"}
+            ]
+        },{ 
+            "name":"Jharkhand",
+            "cities":[
+                {"name":"Itanagar"}
+            ]
+        },{ 
+            "name":"Karnataka",
+            "cities":[
+                {"name":"Itanagar"}
+            ]
+        },{ 
+            "name":"Kerala",
+            "cities":[
+                {"name":"Itanagar"}
+            ]
+        },{ 
+            "name":"Ladakh (union territory)",
+            "cities":[
+                {"name":"Itanagar"}
+            ]
+        },{ 
+            "name":"Madhya Pradesh",
+            "cities":[
+                {"name":"Itanagar"}
+            ]
+        },{ 
+            "name":"Maharashtra",
+            "cities":[
+                {"name":"Itanagar"}
+            ]
+        },{ 
+            "name":"Manipur",
+            "cities":[
+                {"name":"Itanagar"}
+            ]
+        },{ 
+            "name":"Meghalaya",
+            "cities":[
+                {"name":"Itanagar"}
+            ]
+        },{ 
+            "name":"Mizoram",
+            "cities":[
+                {"name":"Itanagar"}
+            ]
+        },{ 
+            "name":"Nagaland",
+            "cities":[
+                {"name":"Itanagar"}
+            ]
+        },{ 
+            "name":"Odisha",
+            "cities":[
+                {"name":"Itanagar"}
+            ]
+        },{ 
+            "name":"Puducherry (union territory)",
+            "cities":[
+                {"name":"Itanagar"}
+            ]
+        },{ 
+            "name":"Punjab",
+            "cities":[
+                {"name":"Itanagar"}
+            ]
+        },{ 
+            "name":"Rajasthan",
+            "cities":[
+                {"name":"Itanagar"}
+            ]
+        },{ 
+            "name":"Sikkim",
+            "cities":[
+                {"name":"Itanagar"}
+            ]
+        },{ 
+            "name":"Tamil Nadu",
+            "cities":[
+                {"name":"Itanagar"}
+            ]
+        },{ 
+            "name":"Telangana",
+            "cities":[
+                {"name":"Itanagar"}
+            ]
+        },{ 
+            "name":"Tripura",
+            "cities":[
+                {"name":"Itanagar"}
+            ]
+        },{ 
+            "name":"Uttar Pradesh",
+            "cities":[
+                {"name":"Itanagar"}
+            ]
+        },{ 
+            "name":"Uttarakhand",
+            "cities":[
+                {"name":"Itanagar"}
+            ]
+        },{ 
+            "name":"West Bengal",
+            "cities":[
+                {"name":"Itanagar"}
+            ]
+        }
+    ]
+}
